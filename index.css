@@ -1,0 +1,36 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: rgb(241, 220, 220);
+  text-align: center;
+  background-image: url("images/table.png");
+  background-size: cover;
+  font-weight: bold;
+}
+h1 {
+  color: goldenrod;
+}
+p {
+  text-align: center;
+}
+
+h2 {
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+button {
+  border: none;
+  padding: 5px;
+  margin: 5px;
+  width: 50px;
+  background-color: goldenrod;
+  border-radius: 10%;
+  color: #016f32;
+}
+
+img {
+  width: 50%;
+}
